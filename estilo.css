@@ -1,0 +1,14 @@
+body{
+    background-color: burlywood;
+    color:blueviolet;
+}
+
+#div2{
+    border: 10px solid green;
+}
+#div3{
+    border: 10px solid red;
+}
+.div_destaque{
+    border: 15px solid black;
+}
